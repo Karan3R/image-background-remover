@@ -1,0 +1,3 @@
+Pillow
+rembg
+opencv-python
